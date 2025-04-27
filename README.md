@@ -41,11 +41,11 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
   <em>Student Registration - A form where students can register by providing their full name, email, date of birth, field of study, and password.</em>
 </p><br>
 
-### Edit Product
+### Login Page
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/529b7df15f65bcbfc2c9b397b337edfe7cc79ab2/images/edit_product.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/4a10aa592089f7f4e8df72452946b8af28895d43/images/login.png" alt="image alt"/>
   <br>
-  <em>Edit Product - Modify the details of an existing product and update the database.</em>
+  <em>User Login - A secure login page for both students and administrators, with an option to remember the email.</em>
 </p><br>
 
 ### Delete Product
