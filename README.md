@@ -27,11 +27,11 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
 
 ## ***📸 Screenshots :***
 
-### Product List
+### Home Page
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/efbbaa183f052078a2f6c5dd8885242a579c9264/images/index.png" alt="image alt" />
   <br>
-  <em>Product List - View all products with key details like name, category, price, and stock level.</em>
+  <em>Welcome Page - The landing page of the application, providing navigation options for login, registration, or accessing the dashboard based on user roles.</em>
 </p><br>
 
 ### Add Product
