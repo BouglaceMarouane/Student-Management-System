@@ -19,3 +19,8 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
 
 ---
 
+## ***🛠️ Technologies Used :***
+
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-red?logo=Bootstrap&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-8.0-gold?logo=mysql&logoColor=white)
+
+---
