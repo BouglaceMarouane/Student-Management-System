@@ -89,4 +89,33 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
    
    ---
 
-   
+   ## ***🤝 Contribute :***
+
+We welcome all contributions!
+If you have ideas for improvements, bug fixes, or new features, feel free to submit a pull request.
+Please make sure to follow the existing code style and conventions to keep the project clean and consistent.
+
+If you encounter any issues or have feature requests, don't hesitate to open an issue in the repository.
+Be as detailed as possible to help us understand and address your suggestions efficiently.
+
+Thank you for helping make this project better! 💬
+
+   ---
+
+## ***⭐ Support :***
+
+If you find this project helpful, please consider giving it a ⭐ on GitHub — it really motivates me to keep improving and adding new features!
+Your support is truly appreciated! 🚀
+
+   ---
+
+## ***📬 Stay in Touch:***
+
+- 📧 Email: bouglacemarouane@gmail.com  
+- 🌐 GitHub: [Bouglace Marouane](https://github.com/BouglaceMarouane)
+- 🌍 LinkedIn: [Marouane Bouglace Linkedin](https://www.linkedin.com/in/marouane-bouglace-68b17333b/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
