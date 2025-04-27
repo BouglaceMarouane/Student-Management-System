@@ -29,7 +29,7 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
 
 ### Product List
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/5d6ad0d911907d90185601c370acb968bdfda16e/images/product_liste.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/efbbaa183f052078a2f6c5dd8885242a579c9264/images/index.png" alt="image alt" />
   <br>
   <em>Product List - View all products with key details like name, category, price, and stock level.</em>
 </p><br>
