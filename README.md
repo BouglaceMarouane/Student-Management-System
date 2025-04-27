@@ -34,11 +34,11 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
   <em>Welcome Page - The landing page of the application, providing navigation options for login, registration, or accessing the dashboard based on user roles.</em>
 </p><br>
 
-### Add Product
+### Registration Page
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/3fbc68bc08b45e4c280da67bc7f96e668d18bd40/images/add_product.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/1529dd3cdc5b97bfed4af030e09317ceec232e03/images/register.png" alt="image alt"/>
   <br>
-  <em>Add Product - Fill out the form to add a new product to the inventory.</em>
+  <em>Student Registration - A form where students can register by providing their full name, email, date of birth, field of study, and password.</em>
 </p><br>
 
 ### Edit Product
