@@ -50,14 +50,14 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
 
 ### Admin Dashboard - Pending Registrations
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Stock-Management/blob/ff414f5411889b3f2b18b56dcdcf9e7007444a2f/images/delete.png" alt="image alt"/>
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/a21e1d092b9f1f64fa41ce85206a96cb773b7b2d/images/admin1.png" alt="image alt"/>
   <br>
   <em>Pending Student Registrations -  A list of students awaiting validation by the administrator, with options to validate or reject registrations.</em>
 </p><br>
 
 ### Admin Dashboard - Validated Students
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/efbbaa183f052078a2f6c5dd8885242a579c9264/images/index.png" alt="image alt" />
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/a21e1d092b9f1f64fa41ce85206a96cb773b7b2d/images/admin2.png" alt="image alt" />
   <br>
   <em>Validated Students - A list of students whose registrations have been validated, with options to edit or delete their profiles.</em>
 </p><br>
