@@ -62,6 +62,20 @@ Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers
   <em>Validated Students - A list of students whose registrations have been validated, with options to edit or delete their profiles.</em>
 </p><br>
 
+### Edit Student (Admin)
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/2bb56bc8d1394d4a9ee720b9ea46e03ee66f2f39/images/editadmin.png" alt="image alt" />
+  <br>
+  <em>Edit Student Information- A form for administrators to update a student's details, such as name, email, date of birth, and field of study.</em>
+</p><br>
+
+### Student Profile Page
+<p align="center">
+  <img src="https://github.com/BouglaceMarouane/Student-Management-System/blob/2bb56bc8d1394d4a9ee720b9ea46e03ee66f2f39/images/editetu.png" alt="image alt" />
+  <br>
+  <em>Student Profile - A page where students can view and update their personal information, including changing their password.</em>
+</p><br>
+
 ---
 
 ## ***📚 What I Learned from This Project :***
