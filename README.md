@@ -1,7 +1,6 @@
 # 🎓 **Student Management System – Dynamic Web Application**
 
 
-
 ## ***✨ Project Description :***
 
 Welcome to the **Student Management System**, a dynamic and responsive web application designed to simplify the management of student information. This system enables administrators to handle student registrations, view and edit profiles, and manage academic details with ease. Students can register, update their profiles, and access important academic information through a clean and intuitive interface.
