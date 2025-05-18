@@ -6,7 +6,6 @@ Welcome to the **Student Management System**, a dynamic and responsive web appli
 
 Built using **HTML**, **PHP**, **MySQL**, and **Bootstrap**, this project offers a modern user experience with reliable backend functionality. It ensures secure data handling, streamlined workflows, and efficient management of student records.
 
-
 ---
 
 ## ***🚀 Key Features :***
